@@ -1,0 +1,15 @@
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiOOPtest\Exercises\exercise6\bin\Debug\net6.0\exercise6.exe
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiOOPtest\Exercises\exercise6\bin\Debug\net6.0\exercise6.deps.json
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiOOPtest\Exercises\exercise6\bin\Debug\net6.0\exercise6.runtimeconfig.json
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiOOPtest\Exercises\exercise6\bin\Debug\net6.0\exercise6.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiOOPtest\Exercises\exercise6\bin\Debug\net6.0\exercise6.pdb
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiOOPtest\Exercises\exercise6\obj\Debug\net6.0\exercise6.csproj.AssemblyReference.cache
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiOOPtest\Exercises\exercise6\obj\Debug\net6.0\exercise6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiOOPtest\Exercises\exercise6\obj\Debug\net6.0\exercise6.AssemblyInfoInputs.cache
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiOOPtest\Exercises\exercise6\obj\Debug\net6.0\exercise6.AssemblyInfo.cs
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiOOPtest\Exercises\exercise6\obj\Debug\net6.0\exercise6.csproj.CoreCompileInputs.cache
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiOOPtest\Exercises\exercise6\obj\Debug\net6.0\exercise6.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiOOPtest\Exercises\exercise6\obj\Debug\net6.0\refint\exercise6.dll
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiOOPtest\Exercises\exercise6\obj\Debug\net6.0\exercise6.pdb
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiOOPtest\Exercises\exercise6\obj\Debug\net6.0\exercise6.genruntimeconfig.cache
+C:\Users\hunt\Desktop\Sites\cypherCrescentProgramme\backend\IsicheiOOPtest\Exercises\exercise6\obj\Debug\net6.0\ref\exercise6.dll
