@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hunt\\Desktop\\Sites\\cypherCrescentProgramme\\backend\\IsicheiOOPtest\\Exercises\\exercise6\\exercise6.csproj": {}
+    "C:\\Users\\hunt\\Desktop\\Sites\\cypherCrescentProgramme\\backend\\IsicheiOOPtest\\Exercises\\Exercise8BankAccountModule\\Exercise8BankAccountModule.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hunt\\Desktop\\Sites\\cypherCrescentProgramme\\backend\\IsicheiOOPtest\\Exercises\\exercise6\\exercise6.csproj": {
+    "C:\\Users\\hunt\\Desktop\\Sites\\cypherCrescentProgramme\\backend\\IsicheiOOPtest\\Exercises\\Exercise8BankAccountModule\\Exercise8BankAccountModule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hunt\\Desktop\\Sites\\cypherCrescentProgramme\\backend\\IsicheiOOPtest\\Exercises\\exercise6\\exercise6.csproj",
-        "projectName": "exercise6",
-        "projectPath": "C:\\Users\\hunt\\Desktop\\Sites\\cypherCrescentProgramme\\backend\\IsicheiOOPtest\\Exercises\\exercise6\\exercise6.csproj",
+        "projectUniqueName": "C:\\Users\\hunt\\Desktop\\Sites\\cypherCrescentProgramme\\backend\\IsicheiOOPtest\\Exercises\\Exercise8BankAccountModule\\Exercise8BankAccountModule.csproj",
+        "projectName": "Exercise8BankAccountModule",
+        "projectPath": "C:\\Users\\hunt\\Desktop\\Sites\\cypherCrescentProgramme\\backend\\IsicheiOOPtest\\Exercises\\Exercise8BankAccountModule\\Exercise8BankAccountModule.csproj",
         "packagesPath": "C:\\Users\\hunt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hunt\\Desktop\\Sites\\cypherCrescentProgramme\\backend\\IsicheiOOPtest\\Exercises\\exercise6\\obj\\",
+        "outputPath": "C:\\Users\\hunt\\Desktop\\Sites\\cypherCrescentProgramme\\backend\\IsicheiOOPtest\\Exercises\\Exercise8BankAccountModule\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hunt\\AppData\\Roaming\\NuGet\\NuGet.Config",
